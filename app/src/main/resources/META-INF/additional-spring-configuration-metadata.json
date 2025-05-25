@@ -1,0 +1,29 @@
+{
+    "properties": [
+        {
+            "name": "discord.token",
+            "type": "java.lang.String",
+            "description": "Token for discord bot"
+        },
+        {
+            "name": "deployment.type",
+            "type": "java.lang.String",
+            "description": "Type of deployment (determines logging parameters)"
+        },
+        {
+            "name": "api.base.url",
+            "type": "java.lang.String",
+            "description": "Base url for database api endpoints"
+        },
+        {
+            "name": "clash.api.email",
+            "type": "java.lang.String",
+            "description": "Clash of clans public API email"
+        },
+        {
+            "name": "clash.api.password",
+            "type": "java.lang.String",
+            "description": "Clash of clans public API password"
+        }
+    ]
+}
