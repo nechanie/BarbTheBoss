@@ -30,10 +30,8 @@ Add Barb The Boss to your server with this invite link:
 ------------------------------------
 This repository includes the current HTML files for our Privacy Policy and Terms of Service, which are published via GitHub Pages. Access them here:
 
-- Privacy Policy:
-  https://nechanie.github.io/BarbTheBoss/privacy-policy.html
-- Terms of Service:
-  https://nechanie.github.io/BarbTheBoss/terms-of-service.html
+- [Privacy Policy](https://nechanie.github.io/BarbTheBoss/privacy.html)
+- [Terms of Service](https://nechanie.github.io/BarbTheBoss/terms.html)
 
 ## 4. Features
 -----------
